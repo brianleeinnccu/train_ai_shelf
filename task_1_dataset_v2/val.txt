@@ -1,0 +1,961 @@
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_朝日_8-1冰箱櫃(朝日啤酒350 6)_095500台中永春東338_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_家宏_7-1洗髮精側掛_167200歸仁文化393_10.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_6月_好來_6-1移動式陳列架_114000員林南昌191_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_朝日_8-1冰箱櫃(沛羅尼 6)_034000中平418_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_味全_8-1S型溝槽板_027400台北東門66_8.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_味全_8-1調味料側掛_012900基隆武隆459_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_好來_5-1好來側掛(漱口水)_305500新店中央152_10.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_家宏_8-1洗髮精側掛_165500仁德德安414_6.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_味全_7-1調味料側掛_156000善化善新229_6.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_好來_5-1高露潔側掛(第四座)_063400竹東榮華923_5.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_欣臨_7-1餅乾側掛_304600汐止莊敬17_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_好來_5-1高露潔側掛(第四座)_028000北投1123_6.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_DM_6-2DM(夏日蜜-芒果萊姆)_117900鹿港長安436_4.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_家宏_8-1台塑端架_100800南投學藝82_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_嘉士伯_8-1冰箱櫃(1664桃紅)_189000鳳山北昌五626_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_好來_5-1收銀台紙架_100600埔里中正496_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_朝日_7-1冰箱櫃(輕冽啤酒350 6)_152800台南六甲169_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1高露潔側掛(第四座)_041900龜山文化1043_6.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_朝日_5-1冰箱櫃(沛羅尼 6)_043000平鎮育達450_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1高露潔側掛(第四座)_041900龜山文化1043_12.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_6月_味全_6-1S型溝槽板_222000三星中山34_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_好來_5-1好來側掛(牙膏)_038900泰山文程1071_7.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_朝日_8-1冰箱櫃(朝日啤酒500 4)_096900台中忠明南1138_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_6月_好來_6-1高露潔側掛(無電動牙刷)_097100台中忠孝297_7.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_DM_6-2DM(夏日蜜-芒果萊姆)_187700林園石化三189_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1好來側掛(牙膏)_063900湖口明德936_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_味全_7-1S型溝槽板_095000沙鹿中山35_4.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_朝日_5-1冰箱櫃(輕冽啤酒350 6)_179800旗津中洲253_5.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_好來_5-1高露潔側掛(第四座)_186600仁武水管360_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_伊潔維_7-1收銀端架_099700大甲經國988_4.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_立晉_7-1冰箱櫃(山桔仔沙瓦)_600600中山建國北2_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_好來_8-1高露潔側掛(無電動牙刷)_048800龜山文德360_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_欣臨_7-1CSC側掛_300400永和竹林47_8.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_6月_好來_6-1好來側掛(牙膏)_841500龍潭中正28_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_好來_8-1移動式陳列架_161200歸仁144_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_好來_5-1高露潔側掛(無電動牙刷)_252800內湖網球場133_12.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_DM_6-2DM(夏日蜜-芒果萊姆)_095000沙鹿中山529_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_6月_好來_6-1好來側掛(漱口水)_311100三重湯城119_10.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_味全_5-1調味料側掛_089300豐原大順333_11.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_日正_5-1李錦記溝槽板_030800北縣金山14_4.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_新品_6-1新品(直球勝負葡萄柚調酒)_096100龍井藝術545_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_欣臨_7-1CSC側掛_841200桃園桃鶯18_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1好來側掛(牙膏)_600500板橋僑中103_9.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_DM_6-2DM(夏日蜜-芒果萊姆)_125200斗六民生南389_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_欣臨_8-1CSC側掛_051200新竹關東324_12.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1好來側掛(牙膏)_600500板橋僑中103_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_6月_立晉_6-1冰箱櫃(山桔仔沙瓦)_305300汐止大同7_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_DM_6-2DM(夏日蜜-芒果萊姆)_097000台中惠文513_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_味全_5-1S型溝槽板_151200崇善23_7.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_DM_6-2DM(傳統寬粉)_210900花蓮壽豐120_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_朝日_7-1冰箱櫃(輕冽啤酒350 6)_302700林口忠孝232_11.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_欣臨_7-1餅乾側掛_304600汐止莊敬17_4.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1高露潔側掛(有電動牙刷)_172600高雄自強258_13.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_好來_8-1高露潔側掛(第四座)_111400彰化自強南725_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_味全_7-1冰箱櫃(輕負擔黑咖啡)_308200板橋溪城135_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_新品_6-1新品(葡萄沙瓦)_300500蘆洲中山163_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_家宏_8-1洗髮精側掛_118600秀水彰水559_10.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_家宏_7-1洗髮精側掛_170600新興七賢二373_9.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_好來_8-1高露潔側掛(第四座)_048900桃園大興977_5.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_朝日_7-1冰箱櫃(輕冽啤酒350 6)_093600太平東平1195_14.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_欣臨_8-1餅乾側掛_070700苑裡中山67_9.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_新品_6-1新品(葡萄沙瓦)_177100高雄鳳林392_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_6月_味全_6-1調味料側掛_115800二林斗苑279_7.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_6月_好來_6-1好來側掛(漱口水)_070800三義廣盛925_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_6月_味全_6-1調味料側掛_071300竹南公義377_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_伊潔維_5-1收銀端架_300900三重中正北485_6.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_欣臨_7-1餅乾側掛_156900安平健康49_9.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_朝日_5-1冰箱櫃(皮爾森歐克啤酒)_101100草屯中正477_4.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_新品_6-1新品(直球勝負葡萄柚調酒)_222200頭城青雲141_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_欣臨_8-1CSC側掛_153000台南永成185_4.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_伊潔維_8-1收銀端架_304700中和南勢角456_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_朝日_7-1冰箱櫃(黃生啤350 6)_156900安平健康29_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_味全_8-1S型溝槽板_172100楠梓常興20_4.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_多益得_7-1多益得側掛_087100后里文明85_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_嘉士伯_8-1冰箱櫃(1664白)_210000花蓮重慶72_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_伊潔維_7-1收銀端架_832100新莊建國349_5.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_立晉_7-1冰箱櫃(山桔仔沙瓦)_305300汐止大同7_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_朝日_7-1冰箱櫃(輕冽啤酒350 6)_253500萬華莒光434_6.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_6月_味全_6-1調味料側掛_870400頭份信東8_9.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_好來_5-1好來側掛(牙膏)_048500楊梅豐興990_6.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_好來_8-1高露潔側掛(有電動牙刷)_220900宜蘭健康114_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_好來_5-1高露潔側掛(有電動牙刷)_166600台南州南280_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_多益得_7-1多益得側掛_124700土庫中華70_9.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_6月_味全_6-1調味料側掛_115200二林仁愛282_8.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_6月_味全_6-1冰箱櫃(輕負擔黑咖啡)_307600新莊大觀548_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_朝日_7-1冰箱櫃(輕冽啤酒350 6)_152800台南六甲169_4.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_DM_6-2DM(皂力淨)_304200新莊輔大130_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_閔漾_7-1冰箱櫃(MizuMizu-水蜜桃 乳酸)_211100花蓮中正30_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_家宏_5-1洗髮精側掛_123400麥寮橋頭554_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_DM_6-2DM(朝日啤酒350 6)_184700仁武中華305_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_華強_8-1收銀紙架_061400湖口和愛608_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_味全_7-1S型溝槽板_841500龍潭中正3_13.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_DM_6-2DM(傳統寬粉)_035400金城492_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1好來側掛(漱口水)_021200北投明德1176_10.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_味全_5-1S型溝槽板_031200永和永安63_15.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_6月_好來_6-1好來側掛(牙膏)_097400潭子中山774_7.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_好來_8-1好來側掛(牙膏)_255600文山興隆218_4.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_欣臨_7-1CSC側掛_841200桃園桃鶯18_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_味全_7-1調味料側掛_306900新莊幸福東60_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_家宏_7-1台塑端架_186600仁武水管37_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_閔漾_7-1冰箱櫃(青森王林蘋果沙瓦)_025400信義松興376_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_好來_5-1好來側掛(牙膏)_752300新店惠國79_4.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_欣臨_8-1CSC側掛_051200新竹關東324_11.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_欣臨_8-1CSC側掛_184300鳳山海洋一103_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_朝日_5-1冰箱櫃(皮爾森歐克啤酒)_187400前鎮明鳳三627_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1高露潔側掛(無電動牙刷)_080400台中復興326_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_6月_好來_6-1好來側掛(漱口水)_311100三重湯城119_8.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_家宏_8-1洗髮精側掛_024800北市和平948_9.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_DM_6-2DM(傳統寬粉)_340000台中梅川東45_5.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_欣臨_8-1CSC側掛_754200中山長春24_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_朝日_5-1冰箱櫃(黃生啤350 6)_031600新店安康408_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_味全_8-1調味料側掛_051700新竹食品405_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_新品_6-1新品(心美力HMO3幼兒)_047600平鎮新富894_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1高露潔側掛(無電動牙刷)_049000觀音成功354_7.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_好來_8-1高露潔側掛(第四座)_024400北市延平1144_12.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_家宏_8-1洗髮精側掛_840600龜山自強36_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_多益得_7-1多益得側掛_167200歸仁文化52_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_味全_8-1冰箱櫃(輕負擔黑咖啡)_113400靜修646_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_DM_6-2DM(傳統寬粉)_039600新店北宜484_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_家宏_5-1洗髮精側掛_123400麥寮橋頭554_8.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_朝日_5-1冰箱櫃(黃生啤350 6)_251600中正同安589_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_6月_好來_6-1好來側掛(漱口水)_044200平鎮上海1026_6.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1好來側掛(漱口水)_304500永和中正160_4.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_6月_味全_6-1調味料側掛_115800二林斗苑279_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_朝日_8-1冰箱櫃(輕冽啤酒350 6)_033300文山木新482_7.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_欣臨_7-1CSC側掛_099900大里甲堤242_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_好來_8-1高露潔側掛(無電動牙刷)_306200八里中山88_8.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_朝日_5-1冰箱櫃(皮爾森歐克啤酒)_187400前鎮明鳳三627_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1好來側掛(漱口水)_157000永康勝華561_7.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_DM_6-2DM(傳統寬粉)_085900梧棲文化415_5.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_欣臨_7-1CSC側掛_300400永和竹林47_7.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_伊潔維_7-1收銀端架_183500三民陽明668_7.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_新品_6-1新品(直球勝負檸檬調酒)_118900埔鹽彰水463_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_家宏_7-1洗髮精側掛_027300萬華長沙937_8.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_6月_好來_6-1好來側掛(牙膏)_024800北市和平1144_9.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_味全_8-1S型溝槽板_170600新興七賢二22_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_朝日_7-1冰箱櫃(輕冽啤酒350 6)_049100大溪仁和18_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_DM_6-2DM(傳統寬粉)_113400靜修326_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_6月_味全_6-1S型溝槽板_095000沙鹿中山22_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_嘉士伯_7-1冰箱櫃(1664白)_086700台中向上三1191_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_閔漾_7-1冰箱櫃(MizuMizu-水蜜桃 乳酸)_168100小港宏平49_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_好來_5-1高露潔側掛(無電動牙刷)_020600大直實踐440_6.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_欣臨_7-1CSC側掛_307100三重集美38_11.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_6月_好來_6-1好來側掛(牙膏)_841500龍潭中正28_6.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_好來_8-1好來側掛(牙膏)_755200美村綠58_10.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1高露潔側掛(無電動牙刷)_027100北投東華419_7.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_家宏_8-1洗髮精側掛_052200新竹藝術796_9.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_朝日_8-1冰箱櫃(皮爾森歐克啤酒)_096100龍井藝術93_4.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1好來側掛(漱口水)_154400台南北安582_7.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_6月_味全_6-1S型溝槽板_150700台南大勇10_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_閔漾_8-1冰箱櫃(青森王林蘋果沙瓦)_047000桃園天祥332_7.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_好來_5-1好來側掛(牙膏)_097400潭子中山781_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_新品_6-1新品(直球勝負葡萄柚調酒)_181200楠梓土庫262_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_伊潔維_5-1收銀端架_023500信義六合1323_4.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_好來_5-1好來側掛(漱口水)_087700台中國安846_12.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_家宏_8-1洗髮精側掛_118600秀水彰水559_6.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_6月_好來_6-1好來側掛(漱口水)_176700鳳山光復447_6.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_好來_8-1好來側掛(漱口水)_165400新市復興523_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_好來_5-1好來側掛(漱口水)_167400台南生產500_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_味全_7-1調味料側掛_156000善化善新229_5.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_嘉士伯_5-1冰箱櫃(1664白)_185100前金自強三1111_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1高露潔側掛(有電動牙刷)_172600高雄自強258_9.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_好來_5-1高露潔側掛(第四座)_040100中壢環東1052_6.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_新品_6-1新品(直球勝負檸檬調酒)_070900竹南光復623_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_味全_5-1調味料側掛_060300湖口中正392_4.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_味全_8-1S型溝槽板_030800北縣金山65_12.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_伊潔維_8-1收銀端架_086300豐原忠孝1078_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_味全_7-1生鮮掛籃_049300桃園永安72_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1好來側掛(漱口水)_071900苗栗正義914_4.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1好來側掛(牙膏)_600500板橋僑中103_8.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_閔漾_8-1冰箱櫃(青森王林蘋果沙瓦)_047000桃園天祥332_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_閔漾_8-1冰箱櫃(MizuMizu-水蜜桃 乳酸)_085900梧棲文化16_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_立晉_600100中和景德5_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_好來_8-1移動式陳列架_063500竹北文平234_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_立晉_5-1冰箱櫃(山桔仔沙瓦)_124300元長元南132_4.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_嘉士伯_7-1冰箱櫃(1664白)_036300蘆洲長安869_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_伊潔維_5-1收銀端架_023500信義六合1323_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_欣臨_7-1餅乾側掛_156900安平健康49_6.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_DM_7-1DM(安怡好眠芝麻素)_180800大社金龍316_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_朝日_8-1冰箱櫃(朝日啤酒350 6)_087500大里新芳550_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_6月_好來_6-1好來側掛(牙膏)_169500高雄苓雅488_12.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_朝日_8-1冰箱櫃(朝日啤酒350 6)_123800西螺福來1009_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_6月_好來_6-1好來側掛(牙膏)_841500龍潭中正28_4.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_嘉士伯_5-1冰箱櫃(夏日蜜-接骨木)_187500左營博愛三18_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_朝日_5-1冰箱櫃(輕冽啤酒350 6)_831100蘆洲九芎196_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_6月_好來_6-1移動式陳列架_093900大雅雅環211_4.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_DM_6-2DM(皂力淨)_122500西螺光復547_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1好來側掛(漱口水)_154400台南北安582_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_嘉士伯_7-1冰箱櫃(1664白)_086700台中向上三1191_4.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_DM_6-2DM(朝日啤酒350 6)_062500新豐824_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_新品_6-1新品(法國隆河教皇白酒)_132000嘉義林森西559_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_朝日_5-1冰箱櫃(朝日啤酒350 6)_040100中壢環東152_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_好來_5-1好來側掛(牙膏)_038900泰山文程1071_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_伊潔維_5-1收銀端架_033300文山木新1272_8.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1高露潔側掛(第四座)_041900龜山文化1043_4.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_好來_5-1好來側掛(牙膏)_303400土城立仁174_9.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_新品_6-1新品(法國隆河教皇白酒)_221400羅東209_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_好來_5-1好來側掛(牙膏)_038900泰山文程1071_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_伊潔維_5-1收銀端架_156500麻豆博愛798_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_味全_7-1生鮮掛籃_029400信義林口85_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_新品_6-1新品(醇滑生啤酒)_180800大社金龍266_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_DM_7-1DM(豐力富乳清蛋白粉)_098200台中河北東695_4.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_味全_7-1S型溝槽板_030800北縣金山61_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_味全_5-1調味料側掛_097000台中惠文313_8.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_欣臨_8-1CSC側掛_184300鳳山海洋一103_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_味全_8-1調味料側掛_012900基隆武隆459_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_好來_5-1高露潔側掛(有電動牙刷)_051900新竹延平613_7.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_朝日_8-1冰箱櫃(輕冽啤酒350 6)_200100台東漢陽511_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_味全_8-1冰箱櫃(輕負擔黑咖啡)_045700龜山文青120_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1好來側掛(牙膏)_063900湖口明德936_7.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_閔漾_5-1冰箱櫃(MizuMizu-水蜜桃 乳酸)_045900八德永豐190_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1好來側掛(牙膏)_305700林口仁愛158_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_DM_6-2DM(朝日啤酒350 6)_750200虎尾中正67_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_6月_味全_6-1S型溝槽板_095000沙鹿中山22_8.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_欣臨_7-1CSC側掛_047900楊梅三元329_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_DM_6-2DM(檸檬皂 3)_172500前鎮康定339_6.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_好來_8-1高露潔側掛(第四座)_024400北市延平1144_11.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_6月_好來_6-1移動式陳列架_832200新莊幸福111_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_欣臨_7-1CSC側掛_841200桃園桃鶯18_5.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_好來_8-1好來側掛(漱口水)_165400新市復興523_4.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_欣臨_7-1餅乾側掛_089100台中福星66_4.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_新品_6-1新品(醇滑生啤酒)_081700中工604_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1收銀台紙架_102600竹山大明477_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_欣臨_8-1餅乾側掛_089400豐原向陽63_13.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_嘉士伯_5-1冰箱櫃(1664白)_251200士林蘭雅770_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_DM_6-2DM(皂力淨)_830100板橋國光29_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_閔漾_8-1冰箱櫃(青森王林蘋果沙瓦)_033800蘆洲民族59_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1好來側掛(漱口水)_157000永康勝華561_10.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1好來側掛(牙膏)_034900大觀1110_5.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_朝日_7-1冰箱櫃(皮爾森歐克啤酒)_037800汐止康寧407_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_欣臨_8-1CSC側掛_184300鳳山海洋一103_9.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1高露潔側掛(第四座)_155800永康中華567_10.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_好來_5-1高露潔側掛(第四座)_063400竹東榮華923_9.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_6月_好來_6-1好來側掛(漱口水)_044200平鎮上海1026_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_DM_6-2DM(朝日啤酒350 6)_094800東勢豐勢705_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_伊潔維_5-1收銀端架_183200仁武八德南655_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_6月_味全_6-1S型溝槽板_095000沙鹿中山22_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_味全_8-1調味料側掛_012900基隆武隆459_7.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1高露潔側掛(第四座)_192600屏東永大326_5.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_伊潔維_8-1收銀端架_100900南投名間974_7.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_好來_5-1好來側掛(漱口水)_167400台南生產500_4.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_好來_5-1好來側掛(漱口水)_257000士林華岡200_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_日正_5-1李錦記溝槽板_040400中壢中美12_4.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_嘉士伯_7-1冰箱櫃(1664白)_021100文山景興1120_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_味全_7-1S型溝槽板_095000沙鹿中山35_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1高露潔側掛(無電動牙刷)_080400台中復興326_5.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_伊潔維_5-1收銀端架_033300文山木新1272_4.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_伊潔維_7-1收銀端架_183500三民陽明668_10.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_朝日_7-1冰箱櫃(黃生啤350 6)_302000淡水沙崙492_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_閔漾_5-1冰箱櫃(青森王林蘋果沙瓦)_013500基隆復興118_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_新品_6-1新品(醇滑生啤酒)_093300清水中興557_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_好來_5-1高露潔側掛(第四座)_028000北投1123_9.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_伊潔維_7-1收銀端架_041900龜山文化1237_10.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_好來_8-1高露潔側掛(第四座)_024400北市延平1144_5.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_味全_8-1S型溝槽板_040400中壢中美54_5.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_家宏_7-1洗髮精側掛_089400豐原向陽689_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_好來_5-1高露潔側掛(有電動牙刷)_140200朴子文化368_13.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_朝日_7-1冰箱櫃(朝日啤酒350 6)_117300田中新福733_6.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_嘉士伯_7-1冰箱櫃(1664桃紅)_045400桃園同德380_8.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_好來_8-1高露潔側掛(無電動牙刷)_048800龜山文德360_4.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_味全_8-1調味料側掛_171100三民九如一193_8.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_味全_8-1S型溝槽板_031200永和永安62_7.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1高露潔側掛(無電動牙刷)_027100北投東華419_5.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_朝日_5-1冰箱櫃(黃生啤350 6)_140300大林忠孝286_7.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_味全_5-1調味料側掛_089300豐原大順333_8.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_嘉士伯_8-1冰箱櫃(1664白)_210000花蓮重慶72_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_DM_6-2DM(傳統寬粉)_046000平鎮祥安461_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1高露潔側掛(無電動牙刷)_755100中和宜安14_7.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_好來_5-1高露潔側掛(有電動牙刷)_841100桃園大有18_11.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_家宏_5-1洗髮精側掛_042500中壢福州874_11.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1高露潔側掛(第四座)_039700淡水學府1057_4.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_6月_好來_6-1好來側掛(漱口水)_070800三義廣盛925_5.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_朝日_5-1冰箱櫃(輕冽啤酒350 6)_179800旗津中洲253_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1好來側掛(漱口水)_304500永和中正160_8.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_DM_7-1DM(安怡好眠芝麻素)_112000北斗復興605_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_朝日_8-1冰箱櫃(沛羅尼 6)_119500員林法院48_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_欣臨_7-1餅乾側掛_254100內湖瑞光30_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1好來側掛(漱口水)_085100大里仁化876_6.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_朝日_7-1冰箱櫃(沛羅尼 6)_167700台南興昌918_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_味全_5-1調味料側掛_071900苗栗正義365_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1高露潔側掛(第四座)_750500大甲民生89_6.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1高露潔側掛(第四座)_041900龜山文化1043_9.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_味全_8-1生鮮掛籃_255600文山興隆23_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_欣臨_7-1CSC側掛_099900大里甲堤242_6.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_新品_6-1新品(醇滑生啤酒)_081700中工604_10.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_朝日_7-1冰箱櫃(朝日啤酒350 6)_118900埔鹽彰水114_4.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_6月_好來_6-1高露潔側掛(無電動牙刷)_097100台中忠孝297_6.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_新品_6-1新品(直球勝負檸檬調酒)_070900竹南光復623_8.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_朝日_7-1冰箱櫃(沛羅尼 6)_071100頭份中華357_7.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_6月_好來_6-1高露潔側掛(無電動牙刷)_099000台中崇德八285_5.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_欣臨_7-1餅乾側掛_304600汐止莊敬17_10.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_新品_6-1新品(心美力HMO3幼兒)_099100台中敦富685_4.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1好來側掛(牙膏)_071000頭份中央930_8.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1高露潔側掛(有電動牙刷)_172600高雄自強258_10.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_好來_8-1好來側掛(漱口水)_165400新市復興523_11.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_朝日_8-1冰箱櫃(朝日啤酒350 6)_087500大里新芳550_4.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_味全_7-1生鮮掛籃_163000鹽水39_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_好來_8-1高露潔側掛(有電動牙刷)_089200台中大坑521_15.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_嘉士伯_7-1冰箱櫃(1664白)_036300蘆洲長安869_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_DM_6-2DM(皂力淨)_160900永康南工447_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_朝日_8-1冰箱櫃(輕冽啤酒350 6)_120300雲林麥寮829_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1好來側掛(牙膏)_071000頭份中央930_5.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_伊潔維_7-1收銀端架_141200朴子嘉朴862_11.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_DM_7-1DM(豐力富乳清蛋白粉)_047200中壢龍東908_4.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_欣臨_7-1CSC側掛_841200桃園桃鶯18_7.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1好來側掛(漱口水)_071900苗栗正義914_10.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_味全_5-1S型溝槽板_151200崇善23_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_朝日_5-1冰箱櫃(輕冽啤酒350 6)_870000苗栗中正159_8.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_好來_8-1好來側掛(漱口水)_061000湖口民富955_10.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_嘉士伯_8-1冰箱櫃(1664白)_154100永康復國527_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_味全_8-1調味料側掛_051700新竹食品405_6.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_伊潔維_7-1收銀端架_083800豐原成功241_10.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_新品_6-1新品(Tempo三層盒裝面紙-無香)_081700中工743_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_新品_6-1新品(法國隆河教皇紅酒)_084700台中博館797_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_伊潔維_7-1收銀端架_083800豐原成功241_7.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_新品_6-1新品(直球勝負檸檬調酒)_070900竹南光復623_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_朝日_7-1冰箱櫃(朝日啤酒500 4)_301000三峽和平233_4.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_朝日_5-1冰箱櫃(黃生啤350 6)_021600大安芳和891_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1高露潔側掛(第四座)_041900龜山文化1043_7.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1高露潔側掛(第四座)_155800永康中華567_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_嘉士伯_7-1冰箱櫃(1664桃紅)_045400桃園同德380_5.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_家宏_7-1台塑端架_180900仁武八德47_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_朝日_8-1冰箱櫃(朝日啤酒500 4)_096900台中忠明南1138_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_朝日_7-1冰箱櫃(皮爾森歐克啤酒)_167400台南生產513_4.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_嘉士伯_8-1冰箱櫃(1664桃紅)_100300南投水里672_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_6月_立晉_6-1冰箱櫃(山桔仔沙瓦)_600200文山羅斯福4_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_味全_7-1調味料側掛_184800鳳山鳳北149_6.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_DM_6-2DM(夏日蜜-芒果萊姆)_255900文山萬美100_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_日正_5-1李錦記溝槽板_841500龍潭中正1_13.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_多益得_7-1多益得側掛_166900台南宜居53_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_新品_6-1新品(法國隆河教皇紅酒)_125000北港民主574_4.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_DM_6-2DM(夏日蜜-芒果萊姆)_117900鹿港長安436_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_伊潔維_7-1收銀端架_141200朴子嘉朴862_5.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_好來_8-1好來側掛(漱口水)_117400彰化埤頭701_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1高露潔側掛(第四座)_155800永康中華567_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_好來_5-1好來側掛(牙膏)_303400土城立仁174_7.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_伊潔維_7-1收銀端架_154300學甲華宗829_8.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_味全_7-1調味料側掛_121900虎尾265_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1高露潔側掛(有電動牙刷)_118000員林浮圳426_13.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_好來_8-1高露潔側掛(第四座)_164200柳營中山527_12.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_好來_8-1移動式陳列架_195700屏東崇明84_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_味全_8-1生鮮樹酯籃_750200虎尾中正13_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1高露潔側掛(有電動牙刷)_161500永康正強315_4.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_6月_嘉士伯_6-1冰箱櫃(1664白)_254100內湖瑞光155_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_好來_8-1高露潔側掛(第四座)_164200柳營中山527_11.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_6月_味全_6-1S型溝槽板_116100花壇站前43_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_好來_8-1好來側掛(牙膏)_755000台中三民60_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_朝日_8-1冰箱櫃(沛羅尼 6)_303400土城立仁766_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_好來_8-1高露潔側掛(第四座)_100600埔里中正749_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_味全_5-1調味料側掛_302000淡水沙崙63_11.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_嘉士伯_8-1冰箱櫃(1664白)_122500西螺光復645_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_DM_6-2DM(傳統寬粉)_752700台中西屯21_9.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_朝日_5-1冰箱櫃(黃生啤350 6)_156300安平永華143_4.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_嘉士伯_7-1冰箱櫃(1664桃紅)_046800平鎮龍南370_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_新品_6-1新品(Tempo三層盒裝面紙-無香)_304100三重仁義112_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_好來_5-1好來側掛(漱口水)_052000新竹振興957_6.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_朝日_8-1冰箱櫃(輕冽啤酒350 6)_311700三峽國光2_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_新品_6-1新品(心美力HMO3幼兒)_301000三峽和平155_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_立晉_7-1冰箱櫃(山桔仔沙瓦)_305300汐止大同7_4.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_伊潔維_5-1收銀端架_156500麻豆博愛798_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_新品_6-1新品(葡萄沙瓦)_023000大直北安1092_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1好來側掛(漱口水)_304500永和中正160_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_味全_5-1調味料側掛_089300豐原大順333_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_伊潔維_7-1收銀端架_099700大甲經國988_8.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_好來_5-1好來側掛(漱口水)_257000士林華岡200_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_朝日_7-1冰箱櫃(黃生啤350 6)_084300台中學士454_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_閔漾_8-1冰箱櫃(青森王林蘋果沙瓦)_095600大里爽文287_4.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_朝日_8-1冰箱櫃(皮爾森歐克啤酒)_192700萬丹大順544_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1好來側掛(牙膏)_600500板橋僑中103_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_日正_5-1李錦記溝槽板_030800北縣金山14_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_新品_6-1新品(法國隆河教皇紅酒)_253400內湖東湖179_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1好來側掛(牙膏)_305700林口仁愛158_8.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_6月_味全_6-1調味料側掛_870400頭份信東8_11.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_新品_6-1新品(心美力HMO3幼兒)_099100台中敦富685_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_6月_味全_6-1生鮮樹酯籃_157200永康永大一97_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_朝日_8-1冰箱櫃(輕冽啤酒350 6)_117500埔心東明733_4.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_家宏_7-1洗髮精側掛_170600新興七賢二373_12.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_DM_6-2DM(皂力淨)_251000中山松江195_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_欣臨_7-1CSC側掛_223300礁溪公園53_9.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_嘉士伯_5-1冰箱櫃(夏日蜜-接骨木)_085900梧棲文化16_7.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_味全_8-1S型溝槽板_193000屏東中正15_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_6月_好來_6-1好來側掛(漱口水)_070800三義廣盛925_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_閔漾_7-1冰箱櫃(青森王林蘋果沙瓦)_306100板橋區運170_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_6月_味全_6-1S型溝槽板_095000沙鹿中山22_6.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_朝日_5-1冰箱櫃(皮爾森歐克啤酒)_255800萬華環河南667_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_朝日_7-1冰箱櫃(黃生啤350 6)_095200台中大鵬538_5.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_DM_6-2DM(夏日蜜-芒果萊姆)_097000台中惠文513_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_閔漾_5-1冰箱櫃(MizuMizu-水蜜桃 乳酸)_091700大里352_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_伊潔維_5-1收銀端架_125200斗六民生南867_7.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_好來_5-1好來側掛(漱口水)_052000新竹振興957_4.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_欣臨_7-1餅乾側掛_048600龜山忠義74_6.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_朝日_8-1冰箱櫃(朝日啤酒350 6)_062000竹北嘉豐154_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_好來_5-1高露潔側掛(有電動牙刷)_140200朴子文化368_9.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_朝日_5-1冰箱櫃(皮爾森歐克啤酒)_132000嘉義林森西113_8.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_味全_8-1S型溝槽板_040400中壢中美54_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_好來_5-1好來側掛(牙膏)_084800台中嶺東881_5.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_家宏_7-1洗髮精側掛_039400中和景平885_8.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_家宏_8-1台塑端架_752000新店中正7_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1高露潔側掛(第四座)_102800草屯734_5.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_DM_6-2DM(傳統寬粉)_185900大寮鳳屏一164_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_多益得_7-1多益得側掛_167200歸仁文化52_5.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_味全_7-1調味料側掛_307400新店捷運57_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_好來_8-1好來側掛(漱口水)_165400新市復興523_7.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_朝日_7-1冰箱櫃(皮爾森歐克啤酒)_102200埔里322_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_味全_7-1冰箱櫃(輕負擔黑咖啡)_040100中壢環東151_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_DM_6-2DM(皂力淨)_750200虎尾中正65_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_家宏_7-1台塑端架_187000鳳山頂庄36_4.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_DM_6-2DM(夏日蜜-芒果萊姆)_125200斗六民生南389_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_6月_立晉_6-1冰箱櫃(山桔仔沙瓦)_600200文山羅斯福4_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_好來_8-1移動式陳列架_063500竹北文平234_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_6月_好來_6-1好來側掛(牙膏)_024800北市和平1144_5.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_好來_8-1高露潔側掛(有電動牙刷)_220900宜蘭健康114_12.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_好來_5-1好來側掛(牙膏)_141300六腳蒜頭619_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_日正_5-1李錦記溝槽板_040400中壢中美12_9.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_閔漾_8-1冰箱櫃(MizuMizu-水蜜桃 乳酸)_085900梧棲文化16_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_日正_5-1李錦記溝槽板_040400中壢中美12_7.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_6月_好來_6-1好來側掛(漱口水)_088700太平新興842_13.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_味全_8-1S型溝槽板_030800北縣金山65_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_新品_6-1新品(葡萄沙瓦)_122500西螺光復613_5.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_伊潔維_8-1收銀端架_100900南投名間974_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_多益得_7-1多益得側掛_155200永康大橋65_8.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_欣臨_8-1餅乾側掛_098100太平中和60_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_日正_5-1李錦記溝槽板_841500龍潭中正1_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_新品_6-1新品(法國隆河教皇紅酒)_186100三民大順二307_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_好來_8-1高露潔側掛(第四座)_164200柳營中山527_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1高露潔側掛(有電動牙刷)_831100蘆洲九芎32_4.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_欣臨_7-1CSC側掛_307100三重集美38_10.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_嘉士伯_8-1冰箱櫃(1664桃紅)_189000鳳山北昌五626_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_欣臨_7-1CSC側掛_307100三重集美38_9.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_家宏_8-1台塑端架_013500基隆復興100_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_欣臨_8-1餅乾側掛_750900內湖南湖11_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1好來側掛(漱口水)_157000永康勝華561_4.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_朝日_8-1冰箱櫃(朝日啤酒350 6)_087500大里新芳550_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_朝日_5-1冰箱櫃(朝日啤酒500 4)_223300礁溪公園1077_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_味全_8-1調味料側掛_081700中工364_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_欣臨_8-1CSC側掛_153000台南永成185_5.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_朝日_5-1冰箱櫃(皮爾森歐克啤酒)_167500台南西門562_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_欣臨_8-1餅乾側掛_750900內湖南湖11_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_家宏_8-1台塑端架_100200南投文昌83_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_朝日_7-1冰箱櫃(輕冽啤酒350 6)_302700林口忠孝232_13.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_好來_5-1高露潔側掛(無電動牙刷)_021500內湖成功436_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_家宏_8-1洗髮精側掛_165500仁德德安414_4.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_味全_8-1S型溝槽板_027400台北東門66_10.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_味全_7-1生鮮掛籃_340200東勢東關15_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_華強_8-1收銀紙架_061400湖口和愛608_5.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_家宏_8-1洗髮精側掛_156400台南林森456_8.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_好來_5-1高露潔側掛(無電動牙刷)_186800前金自強二181_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_欣臨_7-1CSC側掛_042300蘆竹上興337_9.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_6月_味全_6-1S型溝槽板_116100花壇站前43_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_欣臨_8-1CSC側掛_754200中山長春24_4.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_欣臨_7-1餅乾側掛_304600汐止莊敬17_6.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_6月_味全_6-1S型溝槽板_031200永和永安58_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_新品_6-1新品(心美力HMO3幼兒)_256600松山南京東165_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_好來_5-1好來側掛(牙膏)_048500楊梅豐興990_8.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_味全_7-1調味料側掛_037800汐止康寧429_5.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_多益得_7-1多益得側掛_155200永康大橋65_6.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1高露潔側掛(有電動牙刷)_172600高雄自強258_4.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_閔漾_7-1冰箱櫃(MizuMizu-水蜜桃 乳酸)_171300高雄重信47_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1高露潔側掛(無電動牙刷)_048500楊梅豐興359_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_好來_5-1好來側掛(漱口水)_305500新店中央152_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_好來_8-1高露潔側掛(無電動牙刷)_048800龜山文德360_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1高露潔側掛(第四座)_039700淡水學府1057_6.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_伊潔維_7-1收銀端架_041900龜山文化1237_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_多益得_8-1多益得側掛_047400蘆竹六福15_4.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_DM_6-2DM(傳統寬粉)_752700台中西屯21_18.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1高露潔側掛(第四座)_081600精誠896_6.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_伊潔維_7-1收銀端架_832100新莊建國349_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_家宏_7-1台塑端架_186000鳳山保華一39_4.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_好來_8-1好來側掛(漱口水)_092700神岡中山820_6.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_味全_8-1調味料側掛_012900基隆武隆459_8.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_6月_味全_6-1調味料側掛_097800台中進化314_7.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_好來_8-1高露潔側掛(無電動牙刷)_309800汐止中正71_5.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_好來_8-1高露潔側掛(有電動牙刷)_163000鹽水306_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_DM_6-2DM(檸檬皂 3)_167600台南海佃359_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_好來_8-1高露潔側掛(無電動牙刷)_090300太平宜昌313_10.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_味全_7-1S型溝槽板_841500龍潭中正3_12.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_好來_8-1移動式陳列架_195700屏東崇明84_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_6月_好來_6-1好來側掛(漱口水)_311100三重湯城119_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_好來_8-1好來側掛(牙膏)_153800台南健康590_12.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_6月_好來_6-1高露潔側掛(無電動牙刷)_185500路竹金平196_10.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_家宏_7-1洗髮精側掛_027300萬華長沙937_11.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_好來_5-1高露潔側掛(有電動牙刷)_125200斗六民生南386_4.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_好來_8-1移動式陳列架_161200歸仁144_7.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_DM_6-2DM(傳統寬粉)_175700路竹中正208_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_6月_嘉士伯_6-1冰箱櫃(1664白)_252500士林德行東237_8.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_欣臨_7-1CSC側掛_300400永和竹林47_6.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_好來_8-1高露潔側掛(有電動牙刷)_089100台中福星522_8.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_味全_5-1調味料側掛_302000淡水沙崙63_9.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_朝日_5-1冰箱櫃(朝日啤酒500 4)_179000新興林森一614_5.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_6月_好來_6-1移動式陳列架_130600嘉義軍輝49_6.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_伊潔維_7-1收銀端架_141200朴子嘉朴862_6.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_伊潔維_8-1收銀端架_029200士林社子1301_9.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_立晉_600600中山建國北2_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_欣臨_8-1餅乾側掛_048600龜山忠義74_11.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_朝日_7-1冰箱櫃(沛羅尼 6)_305900板橋合宜219_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_家宏_8-1洗髮精側掛_156400台南林森456_5.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_好來_8-1好來側掛(牙膏)_044000蘆竹南竹1031_4.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_好來_5-1好來側掛(漱口水)_122600北港華勝660_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_味全_8-1調味料側掛_038000樹林佳園430_7.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_新品_6-1新品(直球勝負檸檬調酒)_155100佳里仁愛385_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_好來_5-1收銀台紙架_097000台中惠文519_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_欣臨_5-1巴里歐架_047100桃園龍泉75_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_6月_好來_6-1移動式陳列架_130600嘉義軍輝49_5.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_朝日_7-1冰箱櫃(黃生啤350 6)_095200台中大鵬538_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_新品_6-1新品(葡萄沙瓦)_013400基隆孝東1111_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1好來側掛(牙膏)_305700林口仁愛158_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_閔漾_7-1冰箱櫃(MizuMizu-水蜜桃 乳酸)_171300高雄重信47_5.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_味全_5-1S型溝槽板_151200崇善23_4.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_多益得_7-1多益得側掛_155200永康大橋65_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_DM_6-2DM(傳統寬粉)_046000平鎮祥安461_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1高露潔側掛(無電動牙刷)_027100北投東華419_11.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_好來_5-1好來側掛(牙膏)_141300六腳蒜頭619_5.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_6月_嘉士伯_6-1冰箱櫃(1664桃紅)_255600文山興隆43_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_味全_8-1S型溝槽板_172100楠梓常興20_9.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_DM_6-2DM(輕冽啤酒350 6)_117900鹿港長安554_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_欣臨_7-1CSC側掛_042300蘆竹上興337_7.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_好來_8-1高露潔側掛(無電動牙刷)_062700湖口中山344_8.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_DM_7-1DM(安怡好眠芝麻素)_841300桃園三民12_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_好來_8-1移動式陳列架_306600八里商港40_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_味全_7-1調味料側掛_121900虎尾265_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_好來_8-1高露潔側掛(第四座)_024400北市延平1144_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_朝日_7-1冰箱櫃(皮爾森歐克啤酒)_046700蘆竹興福378_5.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1高露潔側掛(無電動牙刷)_049000觀音成功354_12.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1好來側掛(牙膏)_063900湖口明德936_10.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_正官庄_5-1正官庄端架+POP_012900基隆武隆932_4.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_伊潔維_8-1收銀端架_151800金華839_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1好來側掛(漱口水)_304500永和中正160_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_6月_嘉士伯_6-1冰箱櫃(1664白)_220000羅東中正247_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_欣臨_8-1CSC側掛_051200新竹關東324_8.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_家宏_8-1台塑端架_100800南投學藝82_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_朝日_7-1冰箱櫃(沛羅尼 6)_071100頭份中華357_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_6月_好來_6-1好來側掛(漱口水)_088700太平新興842_10.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1好來側掛(漱口水)_085100大里仁化876_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_伊潔維_8-1收銀端架_086300豐原忠孝1078_7.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_味全_7-1調味料側掛_306900新莊幸福東60_6.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_華強_8-1收銀紙架_164300台南安富321_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1好來側掛(牙膏)_186700鳳山光華371_6.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_DM_6-2DM(檸檬皂 3)_305000三峽中正103_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1好來側掛(漱口水)_300500蘆洲中山196_5.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_6月_好來_6-1好來側掛(漱口水)_044200平鎮上海1026_13.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_味全_7-1S型溝槽板_041100中壢忠孝51_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_味全_7-1生鮮樹酯籃_830300淡水淡大7_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_好來_5-1好來側掛(漱口水)_083800豐原成功880_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_好來_8-1高露潔側掛(第四座)_024400北市延平1144_9.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_朝日_8-1冰箱櫃(黃生啤350 6)_254600大安新生南89_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_朝日_7-1冰箱櫃(黃生啤350 6)_071300竹南公義687_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_DM_6-2DM(傳統寬粉)_340000台中梅川東45_4.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_朝日_5-1冰箱櫃(朝日啤酒350 6)_040100中壢環東152_4.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_好來_8-1高露潔側掛(第四座)_164200柳營中山527_4.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_伊潔維_5-1收銀端架_300900三重中正北485_9.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_家宏_7-1洗髮精側掛_167200歸仁文化393_12.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_朝日_7-1冰箱櫃(朝日啤酒500 4)_152900台南華平820_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_欣臨_8-1餅乾側掛_070700苑裡中山67_10.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_嘉士伯_5-1冰箱櫃(夏日蜜-接骨木)_187500左營博愛三18_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_DM_6-2DM(輕冽啤酒350 6)_117900鹿港長安554_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_好來_8-1高露潔側掛(第四座)_164200柳營中山527_6.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_新品_6-1新品(法國隆河教皇紅酒)_080300台中崇德827_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_嘉士伯_7-1冰箱櫃(1664白)_750500大甲民生210_6.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_好來_8-1高露潔側掛(第四座)_111400彰化自強南725_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_味全_5-1冰箱櫃(氣泡水)_195600內埔勝光761_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_伊潔維_5-1收銀端架_089600台中豐樂1035_13.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1高露潔側掛(有電動牙刷)_051100新竹自由627_7.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_6月_嘉士伯_6-1冰箱櫃(夏日蜜-接骨木)_156700台南東平4_5.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1收銀台紙架_102600竹山大明477_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_嘉士伯_5-1冰箱櫃(夏日蜜-接骨木)_164600台南文賢一13_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_日正_5-1李錦記溝槽板_142400朴子大同7_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_味全_7-1生鮮掛籃_830900新莊公園7_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_新品_6-1新品(直球勝負葡萄柚調酒)_029400信義林口739_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_伊潔維_8-1收銀端架_030600汐止建成1291_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_DM_6-2DM(輕冽啤酒350 6)_046400龜山大同822_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_朝日_8-1冰箱櫃(朝日啤酒350 6)_085700大里立中847_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1高露潔側掛(第四座)_155800永康中華567_11.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_好來_5-1好來側掛(漱口水)_083800豐原成功880_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1高露潔側掛(第四座)_102800草屯734_8.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_味全_7-1冰箱櫃(輕負擔黑咖啡)_179500鳳山保南252_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_伊潔維_8-1收銀端架_029200士林社子1301_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_朝日_7-1冰箱櫃(沛羅尼 6)_156000善化善新85_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_欣臨_5-1CSC側掛_254600大安新生南324_5.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_欣臨_7-1餅乾側掛_037800汐止康寧80_7.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_欣臨_7-1餅乾側掛_254100內湖瑞光30_10.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1好來側掛(牙膏)_071000頭份中央930_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_立晉_7-1冰箱櫃(山桔仔沙瓦)_600700竹北縣政1_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_好來_8-1好來側掛(牙膏)_755000台中三民60_8.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_朝日_7-1冰箱櫃(黃生啤350 6)_095200台中大鵬538_6.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_欣臨_7-1餅乾側掛_037800汐止康寧80_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_味全_8-1S型溝槽板_040400中壢中美54_6.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_伊潔維_5-1收銀端架_089600台中豐樂1035_5.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_欣臨_8-1CSC側掛_754200中山長春24_10.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_味全_5-1冰箱櫃(氣泡水)_173800鳳山青年二807_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_6月_味全_6-1調味料側掛_097800台中進化314_8.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_新品_6-1新品(心美力HMO3幼兒)_050900新竹武陵873_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_華強_7-1收銀紙架_130600嘉義軍輝410_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_家宏_8-1洗髮精側掛_052200新竹藝術796_5.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_多益得_7-1多益得側掛_087100后里文明85_8.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_6月_嘉士伯_6-1冰箱櫃(夏日蜜-接骨木)_157000永康勝華11_6.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_欣臨_5-1巴里歐架_086700台中向上三63_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_家宏_8-1洗髮精側掛_118600秀水彰水559_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_6月_嘉士伯_6-1冰箱櫃(夏日蜜-接骨木)_085900梧棲文化16_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_6月_味全_6-1調味料側掛_303900萬里瑪鋉57_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_閔漾_7-1冰箱櫃(青森王林蘋果沙瓦)_095800台中忠義285_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_6月_味全_6-1S型溝槽板_193000屏東中正17_5.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_新品_6-1新品(直球勝負檸檬調酒)_118900埔鹽彰水463_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_朝日_8-1冰箱櫃(朝日啤酒350 6)_123800西螺福來1009_4.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_味全_5-1調味料側掛_097000台中惠文313_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_家宏_7-1洗髮精側掛_027300萬華長沙937_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_朝日_7-1冰箱櫃(皮爾森歐克啤酒)_046700蘆竹興福378_4.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_朝日_8-1冰箱櫃(朝日啤酒500 4)_307400新店捷運195_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_伊潔維_5-1收銀端架_125200斗六民生南867_4.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_朝日_8-1冰箱櫃(黃生啤350 6)_254600大安新生南89_5.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1好來側掛(牙膏)_186700鳳山光華371_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_伊潔維_5-1收銀端架_156500麻豆博愛798_9.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_6月_好來_6-1好來側掛(漱口水)_088700太平新興842_12.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_好來_8-1高露潔側掛(有電動牙刷)_220900宜蘭健康114_9.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_6月_好來_6-1移動式陳列架_304400淡水淡金124_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_朝日_8-1冰箱櫃(輕冽啤酒350 6)_120300雲林麥寮829_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_伊潔維_5-1收銀端架_023500信義六合1323_7.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_6月_味全_6-1S型溝槽板_020400文山保儀74_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_好來_5-1好來側掛(漱口水)_167400台南生產500_9.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_新品_6-1新品(葡萄沙瓦)_221700宜蘭復興214_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_朝日_5-1冰箱櫃(沛羅尼 6)_754000文山辛亥749_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_好來_8-1高露潔側掛(有電動牙刷)_165900永康中華西283_13.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_好來_8-1高露潔側掛(無電動牙刷)_062700湖口中山344_5.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_新品_6-1新品(葡萄沙瓦)_303900萬里瑪鋉132_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1收銀台紙架_180000楠梓藍昌246_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_6月_好來_6-1好來側掛(漱口水)_131600嘉義博愛633_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_多益得_7-1多益得側掛_090300太平宜昌84_9.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_朝日_5-1冰箱櫃(朝日啤酒350 6)_140900水上柳林632_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_伊潔維_5-1收銀端架_300900三重中正北485_7.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1高露潔側掛(第四座)_081600精誠896_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_新品_6-1新品(醇滑生啤酒)_093300清水中興557_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_味全_5-1S型溝槽板_031300新店三民62_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_好來_5-1高露潔側掛(有電動牙刷)_140200朴子文化368_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_家宏_7-1洗髮精側掛_039400中和景平885_10.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_新品_6-1新品(葡萄沙瓦)_254600大安新生南181_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_DM_6-2DM(檸檬皂 3)_172500前鎮康定339_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1高露潔側掛(有電動牙刷)_046800平鎮龍南636_8.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_朝日_7-1冰箱櫃(輕冽啤酒350 6)_120900虎尾林森1136_4.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_嘉士伯_7-1冰箱櫃(1664桃紅)_870000苗栗中正163_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_朝日_7-1冰箱櫃(皮爾森歐克啤酒)_047100桃園龍泉104_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1高露潔側掛(第四座)_192600屏東永大326_8.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1高露潔側掛(有電動牙刷)_831100蘆洲九芎32_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_新品_6-1新品(直球勝負葡萄柚調酒)_099400清水新興518_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_味全_5-1冰箱櫃(氣泡水)_121700北港民享526_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_嘉士伯_5-1冰箱櫃(夏日蜜-接骨木)_184500新興中正三2_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_新品_6-1新品(直球勝負葡萄柚調酒)_049100大溪仁和659_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_6月_好來_6-1好來側掛(漱口水)_311100三重湯城119_5.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_味全_5-1調味料側掛_097000台中惠文313_5.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1好來側掛(漱口水)_300500蘆洲中山196_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_朝日_5-1冰箱櫃(沛羅尼 6)_088800梧棲文昌532_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_DM_6-2DM(夏日蜜-芒果萊姆)_255900文山萬美100_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1好來側掛(牙膏)_034900大觀1110_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_DM_7-1DM(安怡好眠芝麻素)_170700前金中華三378_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_好來_8-1高露潔側掛(第四座)_306600八里商港144_6.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_6月_味全_6-1調味料側掛_071300竹南公義377_6.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1高露潔側掛(無電動牙刷)_048500楊梅豐興359_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_朝日_8-1冰箱櫃(輕冽啤酒350 6)_120300雲林麥寮829_5.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_伊潔維_7-1收銀端架_141200朴子嘉朴862_9.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_好來_5-1好來側掛(漱口水)_052000新竹振興957_5.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_立晉_7-1冰箱櫃(山桔仔沙瓦)_600600中山建國北2_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_6月_好來_6-1好來側掛(漱口水)_176700鳳山光復447_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_新品_6-1新品(法國隆河教皇紅酒)_125000北港民主574_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_DM_6-2DM(檸檬皂 3)_172500前鎮康定339_5.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_欣臨_7-1CSC側掛_042300蘆竹上興337_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_DM_7-1DM(豐力富乳清蛋白粉)_223400員山金山西197_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_好來_5-1好來側掛(漱口水)_122600北港華勝660_6.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_味全_5-1調味料側掛_062800竹北莊敬南382_4.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_好來_8-1好來側掛(牙膏)_255600文山興隆218_6.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_朝日_5-1冰箱櫃(沛羅尼 6)_752800卓蘭昭永724_4.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_好來_5-1好來側掛(漱口水)_122600北港華勝660_11.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_味全_7-1S型溝槽板_095000沙鹿中山36_7.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_好來_8-1好來側掛(牙膏)_153800台南健康590_9.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1好來側掛(漱口水)_300500蘆洲中山196_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_6月_好來_6-1好來側掛(漱口水)_131600嘉義博愛633_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_閔漾_8-1冰箱櫃(青森王林蘋果沙瓦)_047000桃園天祥332_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1高露潔側掛(有電動牙刷)_051100新竹自由627_8.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_伊潔維_7-1收銀端架_041900龜山文化1237_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_味全_7-1S型溝槽板_041100中壢忠孝52_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_朝日_7-1冰箱櫃(輕冽啤酒350 6)_152800台南六甲169_5.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1收銀台紙架_084800台中嶺東582_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_味全_7-1S型溝槽板_095000沙鹿中山36_8.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_DM_6-2DM(夏日蜜-芒果萊姆)_047800中壢永順665_4.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_家宏_8-1台塑端架_013500基隆復興100_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_好來_5-1好來側掛(牙膏)_084800台中嶺東881_6.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_伊潔維_5-1收銀端架_125200斗六民生南867_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_伊潔維_7-1收銀端架_183500三民陽明668_12.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_6月_好來_6-1高露潔側掛(無電動牙刷)_097100台中忠孝297_9.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_伊潔維_8-1收銀端架_090200神岡昌平1043_4.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_閔漾_7-1冰箱櫃(MizuMizu-水蜜桃 乳酸)_211100花蓮中正30_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_好來_5-1好來側掛(漱口水)_052000新竹振興957_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_好來_5-1好來側掛(漱口水)_052000新竹振興957_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_朝日_7-1冰箱櫃(朝日啤酒350 6)_256700中山新生北5_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_好來_5-1好來側掛(牙膏)_048500楊梅豐興990_4.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_DM_6-2DM(輕冽啤酒350 6)_012100基隆新豐957_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_好來_5-1高露潔側掛(第四座)_028000北投1123_7.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_6月_味全_6-1調味料側掛_071300竹南公義377_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_DM_6-2DM(皂力淨)_154600台南小東471_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_DM_6-2DM(檸檬皂 3)_089500梧棲中華665_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_味全_8-1調味料側掛_081700中工364_10.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_好來_5-1高露潔側掛(有電動牙刷)_125200斗六民生南386_13.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_好來_5-1高露潔側掛(第四座)_040100中壢環東1052_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_味全_7-1S型溝槽板_041100中壢忠孝51_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_好來_5-1高露潔側掛(第四座)_186600仁武水管360_13.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_DM_7-1DM(安怡好眠芝麻素)_125000北港民主521_4.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_好來_5-1高露潔側掛(第四座)_063400竹東榮華923_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_欣臨_7-1CSC側掛_223300礁溪公園53_7.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1好來側掛(漱口水)_154400台南北安582_12.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_朝日_7-1冰箱櫃(朝日啤酒500 4)_116700和美德美1180_7.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_6月_味全_6-1S型溝槽板_193000屏東中正17_7.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_嘉士伯_8-1冰箱櫃(1664桃紅)_073200竹南科專七671_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_好來_8-1收銀台紙架_157800永康永明338_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1高露潔側掛(無電動牙刷)_048500楊梅豐興359_11.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_好來_8-1好來側掛(牙膏)_044000蘆竹南竹1031_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1高露潔側掛(有電動牙刷)_051100新竹自由627_5.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_欣臨_8-1餅乾側掛_750900內湖南湖11_6.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_朝日_5-1冰箱櫃(朝日啤酒350 6)_120300雲林麥寮814_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_欣臨_8-1CSC側掛_051200新竹關東324_7.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_6月_味全_6-1調味料側掛_870400頭份信東8_7.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_好來_5-1高露潔側掛(第四座)_063400竹東榮華923_4.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_伊潔維_8-1收銀端架_030600汐止建成1291_8.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_欣臨_7-1CSC側掛_042300蘆竹上興337_8.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_味全_8-1冰箱櫃(輕負擔黑咖啡)_166800台南後壁708_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_多益得_8-1多益得側掛_183600苓雅三多36_4.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_伊潔維_8-1收銀端架_151800金華839_5.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_6月_味全_6-1冰箱櫃(輕負擔黑咖啡)_187100三民有光546_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_閔漾_7-1冰箱櫃(青森王林蘋果沙瓦)_025500南港凌雲375_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_味全_5-1S型溝槽板_151200崇善23_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_朝日_5-1冰箱櫃(輕冽啤酒350 6)_179800旗津中洲253_7.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_DM_7-1DM(安怡好眠芝麻素)_085500潭子豐興745_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_好來_5-1高露潔側掛(有電動牙刷)_125200斗六民生南386_7.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_味全_5-1收銀紙架1_701300新營金華144_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_新品_6-1新品(法國隆河教皇白酒)_035300南華993_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_好來_8-1高露潔側掛(無電動牙刷)_090300太平宜昌313_5.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_好來_5-1好來側掛(漱口水)_257000士林華岡200_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_家宏_7-1洗髮精側掛_027300萬華長沙937_5.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_好來_8-1移動式陳列架_063500竹北文平234_8.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_新品_6-1新品(醇滑生啤酒)_192900屏東廣東192_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_朝日_7-1冰箱櫃(朝日啤酒350 6)_048200楊梅文化123_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_新品_6-1新品(直球勝負葡萄柚調酒)_181200楠梓土庫262_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_6月_好來_6-1好來側掛(牙膏)_124600二崙中正647_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_好來_8-1好來側掛(漱口水)_061000湖口民富955_5.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_DM_7-1DM(豐力富乳清蛋白粉)_098200台中河北東695_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_朝日_7-1冰箱櫃(朝日啤酒500 4)_152900台南華平820_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_朝日_7-1冰箱櫃(沛羅尼 6)_031900汐止忠孝875_4.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_華強_7-1收銀紙架_167900歸仁忠孝北302_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_味全_5-1生鮮樹酯籃_119100彰化彰南127_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_嘉士伯_7-1冰箱櫃(1664桃紅)_045400桃園同德380_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_伊潔維_8-1收銀端架_086300豐原忠孝1078_9.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_好來_5-1高露潔側掛(第四座)_180800大社金龍409_9.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_味全_5-1調味料側掛_060300湖口中正392_10.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_好來_5-1高露潔側掛(有電動牙刷)_211300鳳林125_9.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_味全_8-1S型溝槽板_030800北縣金山65_13.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_家宏_8-1洗髮精側掛_052200新竹藝術796_11.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_好來_8-1收銀台紙架_177200橋頭隆豐265_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_朝日_8-1冰箱櫃(朝日啤酒350 6)_840300龜山迴龍208_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_好來_8-1高露潔側掛(第四座)_024400北市延平1144_7.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_味全_5-1收銀紙架1_028000北投100_5.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_味全_5-1S型溝槽板_831900樹林中山4_11.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_朝日_7-1冰箱櫃(朝日啤酒500 4)_201000台東平等508_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_伊潔維_8-1收銀端架_304700中和南勢角456_4.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_味全_8-1S型溝槽板_172100楠梓常興20_7.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_伊潔維_7-1收銀端架_099700大甲經國988_9.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_味全_8-1S型溝槽板_172100楠梓常興20_5.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_6月_好來_6-1好來側掛(漱口水)_176700鳳山光復447_13.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_新品_6-1新品(葡萄沙瓦)_122500西螺光復613_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_欣臨_7-1CSC側掛_047900楊梅三元329_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_多益得_8-1多益得側掛_183500三民陽明37_7.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1高露潔側掛(第四座)_102800草屯734_7.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_閔漾_7-1冰箱櫃(青森王林蘋果沙瓦)_168600三民鼎泰485_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_DM_6-2DM(輕冽啤酒350 6)_810100基隆仁三27_4.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_好來_5-1好來側掛(漱口水)_087700台中國安846_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_味全_7-1生鮮掛籃_040900蘆竹大竹80_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_閔漾_5-1冰箱櫃(MizuMizu-水蜜桃 乳酸)_168600三民鼎泰336_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_好來_5-1高露潔側掛(無電動牙刷)_340200東勢東關49_6.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_欣臨_7-1餅乾側掛_254100內湖瑞光30_9.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_好來_5-1高露潔側掛(第四座)_063400竹東榮華923_6.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_好來_5-1好來側掛(漱口水)_087700台中國安846_11.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_朝日_5-1冰箱櫃(沛羅尼 6)_043000平鎮育達450_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_欣臨_7-1CSC側掛_307100三重集美38_7.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_欣臨_7-1餅乾側掛_254200南港忠孝東29_8.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_新品_6-1新品(法國隆河教皇紅酒)_040600平鎮南豐965_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_朝日_5-1冰箱櫃(皮爾森歐克啤酒)_305300汐止大同39_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_多益得_7-1多益得側掛_185100前金自強三34_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_好來_5-1高露潔側掛(無電動牙刷)_186800前金自強二181_11.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_欣臨_7-1餅乾側掛_089100台中福星66_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_華強_7-1收銀紙架_045800大園春德685_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_6月_好來_6-1高露潔側掛(無電動牙刷)_099000台中崇德八285_8.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_好來_8-1好來側掛(漱口水)_117400彰化埤頭701_4.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_DM_6-2DM(傳統寬粉)_150900台南崇明271_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_好來_8-1高露潔側掛(第四座)_306600八里商港144_5.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_朝日_8-1冰箱櫃(皮爾森歐克啤酒)_094600大雅民生764_5.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_伊潔維_8-1收銀端架_029200士林社子1301_4.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1好來側掛(牙膏)_600500板橋僑中103_12.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_朝日_7-1冰箱櫃(輕冽啤酒350 6)_049100大溪仁和18_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_DM_7-1DM(安怡好眠芝麻素)_023100內湖民權963_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_朝日_7-1冰箱櫃(皮爾森歐克啤酒)_167400台南生產513_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_好來_8-1收銀台紙架_157800永康永明338_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_DM_6-2DM(夏日蜜-芒果萊姆)_125200斗六民生南389_4.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1高露潔側掛(有電動牙刷)_051100新竹自由627_4.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_6月_味全_6-1冰箱櫃(輕負擔黑咖啡)_029200士林社子449_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_新品_6-1新品(Tempo三層盒裝面紙-無香)_304100三重仁義112_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_味全_8-1調味料側掛_038000樹林佳園430_8.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_6月_好來_6-1好來側掛(漱口水)_088700太平新興842_7.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_6月_好來_6-1好來側掛(漱口水)_070800三義廣盛925_10.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_DM_6-2DM(皂力淨)_251300松山民有193_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_好來_5-1好來側掛(漱口水)_052000新竹振興957_8.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_嘉士伯_8-1冰箱櫃(1664桃紅)_025200萬華雙園462_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_好來_5-1好來側掛(牙膏)_303400土城立仁174_11.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_新品_6-1新品(直球勝負葡萄柚調酒)_024100松花755_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_新品_6-1新品(葡萄沙瓦)_169000右昌441_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_伊潔維_7-1收銀端架_083800豐原成功241_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_好來_5-1高露潔側掛(第四座)_063400竹東榮華923_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_伊潔維_7-1收銀端架_041900龜山文化1237_4.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1好來側掛(牙膏)_088000台中東光855_4.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_朝日_8-1冰箱櫃(黃生啤350 6)_118200線西中正312_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_嘉士伯_5-1冰箱櫃(1664白)_152000台南和緯1160_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_朝日_5-1冰箱櫃(皮爾森歐克啤酒)_132000嘉義林森西113_9.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_嘉士伯_8-1冰箱櫃(1664白)_046300蘆竹山腳379_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_味全_7-1調味料側掛_156000善化善新229_8.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_正官庄_5-1正官庄端架+POP_071600後龍中華1031_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_DM_6-2DM(皂力淨)_122500西螺光復547_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_DM_7-1DM(安怡好眠芝麻素)_023100內湖民權963_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_6月_味全_6-1調味料側掛_115800二林斗苑279_6.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_朝日_8-1冰箱櫃(皮爾森歐克啤酒)_094600大雅民生764_9.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_新品_6-1新品(心美力HMO3幼兒)_192400潮州朝昇東272_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_朝日_7-1冰箱櫃(黃生啤350 6)_095200台中大鵬538_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_新品_6-1新品(心美力HMO3幼兒)_029400信義林口996_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1好來側掛(漱口水)_157000永康勝華561_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_味全_5-1調味料側掛_302000淡水沙崙63_7.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_DM_6-2DM(檸檬皂 3)_341700烏日公園62_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_6月_嘉士伯_6-1冰箱櫃(夏日蜜-接骨木)_156700台南東平4_6.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_DM_6-2DM(朝日啤酒350 6)_255800萬華環河南166_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1高露潔側掛(有電動牙刷)_046800平鎮龍南636_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_朝日_5-1冰箱櫃(朝日啤酒350 6)_123000雲林大埤1167_8.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_好來_8-1好來側掛(漱口水)_165400新市復興523_10.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_6月_味全_6-1調味料側掛_071300竹南公義377_9.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_好來_8-1高露潔側掛(第四座)_111400彰化自強南725_4.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1好來側掛(漱口水)_021200北投明德1176_5.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_嘉士伯_5-1冰箱櫃(1664白)_132000嘉義林森西114_4.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_嘉士伯_7-1冰箱櫃(1664桃紅)_045400桃園同德380_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1高露潔側掛(有電動牙刷)_082200北屯576_17.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_DM_7-1DM(豐力富乳清蛋白粉)_175400燕巢中民394_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_嘉士伯_5-1冰箱櫃(夏日蜜-接骨木)_085900梧棲文化16_8.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_朝日_5-1冰箱櫃(黃生啤350 6)_118800彰化中興296_6.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_新品_6-1新品(法國隆河教皇白酒)_306300三重中正南121_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_家宏_7-1洗髮精側掛_039400中和景平885_12.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_DM_6-2DM(夏日蜜-芒果萊姆)_255900文山萬美100_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_味全_8-1S型溝槽板_031200永和永安62_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_欣臨_8-1CSC側掛_184300鳳山海洋一103_4.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_欣臨_8-1餅乾側掛_048600龜山忠義74_8.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_好來_5-1高露潔側掛(無電動牙刷)_021500內湖成功436_7.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_家宏_8-1台塑端架_841200桃園桃鶯3_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_6月_味全_6-1調味料側掛_115200二林仁愛282_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_6月_味全_6-1S型溝槽板_116100花壇站前43_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_味全_5-1生鮮樹酯籃_308400板橋英士29_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_好來_5-1收銀台紙架_102800草屯483_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_味全_5-1S型溝槽板_031200永和永安63_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_立晉_600200文山羅斯福4_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_DM_6-2DM(輕冽啤酒350 6)_046400龜山大同822_4.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_6月_好來_6-1好來側掛(牙膏)_097400潭子中山774_12.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_欣臨_7-1CSC側掛_307100三重集美38_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_朝日_8-1冰箱櫃(沛羅尼 6)_222600宜蘭校舍503_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_伊潔維_8-1收銀端架_029200士林社子1301_7.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_好來_8-1高露潔側掛(有電動牙刷)_220900宜蘭健康114_10.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1高露潔側掛(有電動牙刷)_046800平鎮龍南636_10.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_DM_7-1DM(豐力富乳清蛋白粉)_842800蘆竹忠孝8_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_新品_6-1新品(醇滑生啤酒)_097700大里練武527_4.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_伊潔維_7-1收銀端架_183500三民陽明668_5.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_新品_6-1新品(直球勝負葡萄柚調酒)_220500羅東南門147_4.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1高露潔側掛(有電動牙刷)_051100新竹自由627_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_6月_好來_6-1好來側掛(牙膏)_181300左營自由二406_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_好來_8-1好來側掛(牙膏)_303600三芝中興173_6.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_閔漾_8-1冰箱櫃(青森王林蘋果沙瓦)_047000桃園天祥332_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_DM_6-2DM(朝日啤酒350 6)_184700仁武中華305_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_欣臨_7-1CSC側掛_042300蘆竹上興337_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_味全_7-1S型溝槽板_095000沙鹿中山35_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_新品_6-1新品(葡萄沙瓦)_169000右昌441_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_朝日_7-1冰箱櫃(皮爾森歐克啤酒)_047100桃園龍泉104_6.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_好來_5-1高露潔側掛(無電動牙刷)_252800內湖網球場133_7.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1高露潔側掛(有電動牙刷)_082200北屯576_9.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_伊潔維_8-1收銀端架_030600汐止建成1291_9.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_味全_7-1S型溝槽板_095000沙鹿中山36_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_閔漾_5-1冰箱櫃(MizuMizu-水蜜桃 乳酸)_311100三重湯城287_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_欣臨_7-1餅乾側掛_254200南港忠孝東29_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_好來_5-1高露潔側掛(第四座)_028000北投1123_10.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_味全_7-1調味料側掛_156000善化善新229_9.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_欣臨_7-1CSC側掛_307100三重集美38_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_新品_6-1新品(法國隆河教皇紅酒)_186100三民大順二307_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1高露潔側掛(有電動牙刷)_161500永康正強315_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_欣臨_8-1CSC側掛_102600竹山大明239_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_好來_8-1移動式陳列架_063500竹北文平234_5.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_6月_味全_6-1調味料側掛_303900萬里瑪鋉57_9.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_伊潔維_7-1收銀端架_154300學甲華宗829_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_DM_6-2DM(皂力淨)_830100板橋國光29_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_6月_嘉士伯_6-1冰箱櫃(1664桃紅)_309800汐止中正71_7.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_好來_5-1好來側掛(漱口水)_087700台中國安846_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1高露潔側掛(有電動牙刷)_082200北屯576_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_朝日_7-1冰箱櫃(皮爾森歐克啤酒)_044800觀音中山602_6.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_朝日_8-1冰箱櫃(朝日啤酒500 4)_096900台中忠明南1138_5.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_朝日_8-1冰箱櫃(輕冽啤酒350 6)_305400中和華夏226_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_6月_味全_6-1調味料側掛_303900萬里瑪鋉57_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_朝日_8-1冰箱櫃(黃生啤350 6)_254600大安新生南89_6.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_好來_8-1好來側掛(漱口水)_154500台南國平585_9.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1高露潔側掛(第四座)_102800草屯734_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_欣臨_8-1CSC側掛_153000台南永成185_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_味全_5-1調味料側掛_071900苗栗正義365_6.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_閔漾_7-1冰箱櫃(MizuMizu-水蜜桃 乳酸)_085400清水鰲峰84_6.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_好來_5-1好來側掛(牙膏)_048500楊梅豐興990_11.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1高露潔側掛(無電動牙刷)_210000花蓮重慶154_4.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_欣臨_7-1餅乾側掛_254100內湖瑞光30_12.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_家宏_5-1洗髮精側掛_155800永康中華476_6.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_好來_5-1好來側掛(漱口水)_083800豐原成功880_10.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_朝日_7-1冰箱櫃(沛羅尼 6)_071100頭份中華357_5.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_新品_6-1新品(直球勝負檸檬調酒)_152000台南和緯399_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_朝日_8-1冰箱櫃(沛羅尼 6)_181200楠梓土庫615_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1好來側掛(漱口水)_021200北投明德1176_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_新品_6-1新品(法國隆河教皇白酒)_171300高雄重信422_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_好來_5-1好來側掛(牙膏)_038900泰山文程1071_4.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_欣臨_8-1CSC側掛_051200新竹關東324_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_6月_好來_6-1好來側掛(漱口水)_044200平鎮上海1026_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_DM_7-1DM(豐力富乳清蛋白粉)_098200台中河北東695_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_好來_8-1好來側掛(牙膏)_755000台中三民60_11.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_伊潔維_5-1收銀端架_300900三重中正北485_11.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1高露潔側掛(有電動牙刷)_051100新竹自由627_11.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_嘉士伯_7-1冰箱櫃(1664白)_036300蘆洲長安869_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_朝日_8-1冰箱櫃(沛羅尼 6)_043100八德興豐401_10.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_味全_5-1收銀紙架1_028000北投100_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_欣臨_8-1CSC側掛_153000台南永成185_10.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_味全_5-1S型溝槽板_031300新店三民62_4.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_味全_5-1調味料側掛_089300豐原大順333_5.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_多益得_7-1多益得側掛_166900台南宜居53_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_欣臨_7-1CSC側掛_099900大里甲堤242_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_6月_味全_6-1S型溝槽板_222000三星中山34_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1高露潔側掛(第四座)_102800草屯734_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_嘉士伯_7-1冰箱櫃(1664桃紅)_045400桃園同德380_4.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_好來_8-1收銀台紙架_102900北門477_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_6月_味全_6-1調味料側掛_115200二林仁愛282_10.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_朝日_5-1冰箱櫃(朝日啤酒500 4)_810100基隆仁三1019_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1高露潔側掛(第四座)_102800草屯734_4.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_好來_8-1好來側掛(漱口水)_061000湖口民富955_9.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_欣臨_7-1CSC側掛_307100三重集美38_8.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_家宏_8-1台塑端架_034900大觀97_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_DM_7-1DM(安怡好眠芝麻素)_841300桃園三民12_4.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_朝日_7-1冰箱櫃(黃生啤350 6)_084300台中學士454_6.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_新品_6-1新品(醇滑生啤酒)_097700大里練武527_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_日正_5-1李錦記溝槽板_040400中壢中美12_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_DM_6-2DM(檸檬皂 3)_172000高雄左大342_4.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_閔漾_7-1冰箱櫃(MizuMizu-水蜜桃 乳酸)_085400清水鰲峰84_4.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_欣臨_7-1CSC側掛_300400永和竹林47_5.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_味全_5-1S型溝槽板_151200崇善23_6.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_閔漾_5-1冰箱櫃(MizuMizu-水蜜桃 乳酸)_036600板橋國慶61_2.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_閔漾_5-1冰箱櫃(MizuMizu-水蜜桃 乳酸)_311100三重湯城287_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_8月_家宏_8-1台塑端架_841200桃園桃鶯3_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_好來_5-1好來側掛(牙膏)_752300新店惠國79_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/單品_新品_6-1新品(Tempo三層盒裝面紙-無香)_034700板橋江子翠902_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_味全_5-1調味料側掛_089300豐原大順333_7.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_6月_好來_6-1好來側掛(牙膏)_124600二崙中正647_10.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_欣臨_7-1餅乾側掛_037800汐止康寧80_9.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_伊潔維_7-1收銀端架_154300學甲華宗829_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_7月_好來_7-1高露潔側掛(第四座)_041900龜山文化1043_1.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_欣臨_5-1巴里歐架_096900台中忠明南52_3.jpg
+/Users/brian/product_train_last3085/task_1_dataset_v2/images/val/承租_5月_嘉士伯_5-1冰箱櫃(1664白)_052200新竹藝術1101_2.jpg

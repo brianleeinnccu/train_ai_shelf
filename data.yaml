@@ -1,0 +1,5 @@
+path: /Users/brian/product_train_last3085
+train: /Users/brian/product_train_last3085/train_abs.txt
+val: /Users/brian/product_train_last3085/val_abs.txt
+names:
+  0: shelf
