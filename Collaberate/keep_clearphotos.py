@@ -3,7 +3,7 @@ import pathlib
 # 您的資料夾路徑變數
 clear_path = pathlib.Path("/Users/brian/product_train_last3085/1500_for_quality/clear")
 original_txt = pathlib.Path("/Users/brian/product_train_last3085/task_1_dataset_v2/labels/train")
-
+original_img = pathlib.Path("/Users/brian/product_train_last3085/task_1_dataset_v2/images/train")
 # 1. 取得所有清晰圖片的檔名 (例如會拿到 '汽水貨架層', '餅乾貨架層' 等)
 # 這裡用 list 儲存，以便後續做「包含」比對
 clear_image_names = [img_file.stem for img_file in clear_path.glob('*.jpg')]
@@ -27,3 +27,4 @@ for txt_file in original_txt.glob('*.txt'):
 print(f"處理完成！")
 print(f"✅ 保留了 {kept_count} 個包含清晰圖片名稱的分支標籤檔。")
 print(f"🗑️ 刪除了 {removed_count} 個多餘的標籤檔。")
+
